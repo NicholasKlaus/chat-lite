@@ -1,0 +1,21 @@
+.wrapper {
+  padding-top: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.inp {
+  min-width: 250px;
+  padding: 8px 10px;
+  margin: 5px 1px;
+  border-radius: 25px;
+  border: 1px solid black;
+}
+
+.btn-signin {
+  border-radius: 25px;
+  color: #fff;
+  background-color: #00d33f;
+  font-size: 18px;
+}

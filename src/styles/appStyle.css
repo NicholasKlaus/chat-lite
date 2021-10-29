@@ -1,0 +1,16 @@
+html, body, #root, .App {
+  height: 100vh;
+}
+
+.container {
+  max-width: 1170px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btn {
+  min-width: 85px;
+  min-height: 30px;
+  border: 1px solid black;
+  cursor: pointer;
+}
